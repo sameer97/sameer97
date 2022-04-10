@@ -47,6 +47,12 @@ I am a Data Scientist by nature.
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"  title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg" title="Keras" **alt="Keras" width="70" height="40"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" **alt="Tableau" width="70" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter" **alt="Jupyter" width="70" height="40"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" title="Scikit-learn" **alt="Scikit-learn" width="70" height="40"/>
+  <img src="https://user-images.githubusercontent.com/38404461/65588818-7734b500-df88-11e9-907c-a0bc0c0fdfc1.png" title="Shap" **alt="Shap" width="70" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png" title="Plotly" **alt="Plotly" width="70" height="40"/>
 </div>
 
 ---
