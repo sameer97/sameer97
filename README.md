@@ -51,6 +51,7 @@ I am a Data Scientist by nature.
   <img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" title="Scikit-learn" **alt="Scikit-learn" width="70" height="40"/>
   <img src="https://user-images.githubusercontent.com/38404461/65588818-7734b500-df88-11e9-907c-a0bc0c0fdfc1.png" title="Shap" **alt="Shap" width="70" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png" title="Plotly" **alt="Plotly" width="70" height="40"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" title="Docker" **alt="Docker" width="70" height="40"/>
 </div>
 
 ---
