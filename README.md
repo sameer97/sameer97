@@ -23,7 +23,7 @@
 
 I am a Data Scientist by nature.
 
-- :telescope: I’m working as a Senior Analyst, solving various real-world problems with data and in the process learning, rethinking, and evolving my approach to a problem while giving weight to the very foundations of data science.
+- :telescope: I’m working as a Data Scientist, solving various real-world problems with data and in the process learning, rethinking, and evolving my approach to a problem while giving weight to the very foundations of data science.
 
 - :seedling: Exploring Natural Language Processing and Azure ML
 
